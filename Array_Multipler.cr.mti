@@ -1,0 +1,99 @@
+C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity And2
+-- Compiling architecture And2_behav of And2
+
+} {} {}} C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mul_str2
+-- Compiling architecture mul_str2_behav of mul_str2
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd(8): Illegal concurrent statement.
+-- Loading entity Full_Adder
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd(47): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0} {}} C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mul_Behave_test
+-- Compiling architecture timing of mul_Behave_test
+-- Loading entity mul_Behave
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(10): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(10): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(10): (vcom-1581) No feasible entries for infix operator '<='.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(10): Type error resolving infix expression "<=" as type std.STANDARD.BOOLEAN.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(11): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(11): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(11): (vcom-1581) No feasible entries for infix operator '<='.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(11): Type error resolving infix expression "<=" as type std.STANDARD.BOOLEAN.
+** Error (suppressible): C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(9): (vcom-1272) Length of formal "p" is 4; length of actual is 8.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd(12): VHDL Compiler exiting
+
+} {9.0 17.0 18.0 19.0} {}} C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Full_Adder
+-- Compiling architecture Full_Adder_behav of Full_Adder
+
+} {} {}} C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Adder_8bit
+-- Compiling architecture behav1 of Adder_8bit
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd(14): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd(14): ** Error: (vcom-1590) Bad expression in left operand of infix expression '+'.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd(14): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd(17): VHDL Compiler exiting
+
+} {8.0 12.0} {}} C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mul_str1
+-- Compiling architecture mul_str1_behav of mul_str1
+-- Loading entity And2
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(9): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(10): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(11): Illegal sequential statement.
+-- Loading entity Full_Adder
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(12): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(13): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(14): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(15): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(16): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(17): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(18): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(19): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(20): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(21): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(22): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(23): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(24): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(25): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(26): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(27): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(28): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(29): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(30): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(31): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(32): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(33): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(34): near ";": (vcom-1576) expecting ',' or ')'.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(35): Statement cannot be labeled.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(35): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(36): Illegal sequential statement.
+** Error: C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd(39): VHDL Compiler exiting
+
+} {9.0 12.0 13.0 40.0} {}}

@@ -1,0 +1,18 @@
+library ieee;
+use ieee.std_logic_1164.all;
+entity Adder_8bit is
+port(	a: in std_logic_vector(7 downto 0);
+		b: in std_logic_vector(7 downto 0);
+		Cin: in std_logic;
+		s: out std_logic_vector(7 downto 0);
+		Cout: out std_logic);
+end Adder_8bit;  
+--------------------------------------
+architecture behav1 of Adder_8bit is
+Signal z: std_logic_vector(8 downto 0);
+begin
+    z<=a+b+Cin;
+    s<=z(7 downto 0);
+    Cout<=z(8);
+end behav1;
+

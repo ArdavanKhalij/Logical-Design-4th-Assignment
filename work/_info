@@ -1,0 +1,193 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+Eadder_8bit
+w1555700889
+Z0 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z1 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z2 dC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026
+Z3 8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd
+Z4 FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd
+l0
+L3
+VGkAb;c>O6]MiC1mF9k=D>2
+!s100 f:HUV_0;ZGKRWgzD;g@TL0
+Z5 OL;C;10.6d;65
+32
+!s110 1555700894
+!i10b 1
+!s108 1555700894.000000
+Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd|
+Z7 !s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer3_Behav.vhd|
+!i113 0
+Z8 o-work work -2002 -explicit
+Z9 tExplicit 1 CvgOpt 0
+Eand2
+Z10 w1555688329
+R0
+R1
+R2
+Z11 8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd
+Z12 FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd
+l0
+L3
+VbzAc6oVnHP8_:_<0zS:lT0
+!s100 FzA1H<`6lO^iXXYS19BzZ2
+R5
+32
+Z13 !s110 1555688337
+!i10b 1
+Z14 !s108 1555688337.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd|
+Z16 !s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/And2.vhd|
+!i113 0
+R8
+R9
+Aand2_behav
+R0
+R1
+DEx4 work 4 and2 0 22 bzAc6oVnHP8_:_<0zS:lT0
+l5
+L4
+VjK;RIW5fPjKE8UF[=LJY01
+!s100 fF`^nmQ3a^a1@V?3XRo2F0
+R5
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R8
+R9
+Efull_adder
+Z17 w1555688803
+R0
+R1
+R2
+Z18 8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd
+Z19 FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd
+l0
+L3
+V:V]Kfj23K[dJA>LFV;bg73
+!s100 bjg[H9T0@K?H_U8J`RhJC0
+R5
+32
+Z20 !s110 1555688807
+!i10b 1
+Z21 !s108 1555688807.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd|
+Z23 !s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/FUll_Adder.vhd|
+!i113 0
+R8
+R9
+Afull_adder_behav
+R0
+R1
+DEx4 work 10 full_adder 0 22 :V]Kfj23K[dJA>LFV;bg73
+l5
+L4
+VAgFTT<_;mg`LzCEWRgSLK2
+!s100 aCX?eE1hNTlFfg]eh`aWY2
+R5
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 0
+R8
+R9
+Emul_behave
+w1555700708
+R0
+R1
+R2
+R3
+R4
+l0
+L3
+VNm@Ra?bYYOWz9Mf4BlI5X2
+!s100 jO[MbAcikD:fCn;ijW@eU3
+R5
+32
+!s110 1555700712
+!i10b 1
+!s108 1555700712.000000
+R6
+R7
+!i113 0
+R8
+R9
+Emul_behave_test
+w1555701841
+R0
+R1
+R2
+8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd
+FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd
+l0
+L3
+VJ_XF6216W>=462M`<6Y`L1
+!s100 OZ2MLecPO<VMl>m6AA;k52
+R5
+32
+!s110 1555701847
+!i10b 1
+!s108 1555701847.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd|
+!s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Testbech.vhd|
+!i113 0
+R8
+R9
+Emul_str1
+w1555692473
+R0
+R1
+R2
+8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd
+FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd
+l0
+L3
+VzWO>Yj<HbW8W0S3^VmJfR2
+!s100 T4YG`WCEe5YWhc2EA?]zl3
+R5
+32
+!s110 1555692480
+!i10b 1
+!s108 1555692480.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd|
+!s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer1.vhd|
+!i113 0
+R8
+R9
+Emul_str2
+w1555699699
+R0
+R1
+R2
+8C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd
+FC:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd
+l0
+L3
+V=YLSiz9jJ3DSn]42EoEVV0
+!s100 FfcRPa@KMc<XZAoRn7f6i0
+R5
+32
+!s110 1555699703
+!i10b 1
+!s108 1555699703.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd|
+!s107 C:/Users/Fontex/Documents/CADSD/CADSD_HW4_9621160026/Multiplyer2.vhd|
+!i113 0
+R8
+R9
